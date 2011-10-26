@@ -2,3 +2,5 @@
 db/*.sqlite3
 log/*.log
 tmp/
+# manuell hinzugefügt am 26.10. um 17:13h
+.idea/*
